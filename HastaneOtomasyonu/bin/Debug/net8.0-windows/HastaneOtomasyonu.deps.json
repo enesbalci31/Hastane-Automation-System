@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HastaneOtomasyonu/1.0.0": {
+        "runtime": {
+          "HastaneOtomasyonu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HastaneOtomasyonu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
