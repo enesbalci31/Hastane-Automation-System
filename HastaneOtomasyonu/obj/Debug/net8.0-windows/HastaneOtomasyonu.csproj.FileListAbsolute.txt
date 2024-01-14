@@ -16,3 +16,16 @@ C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debu
 C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.pdb
 C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.genruntimeconfig.cache
 C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\ref\HastaneOtomasyonu.dll
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.PatientLogin.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Announcements.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Doctor___İnformation__Edit.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Doctor_Detail.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Doctor_Login.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Edit_İnformation.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Patient_detail.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Patient_registration.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Secretary_Details.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Secretary_Login.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Branch_Panel.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Doktor_Panel.resources
+C:\Users\enesb\OneDrive\Masaüstü\HospitalAutomation\HastaneOtomasyonu\obj\Debug\net8.0-windows\HastaneOtomasyonu.Meeting_List.resources
